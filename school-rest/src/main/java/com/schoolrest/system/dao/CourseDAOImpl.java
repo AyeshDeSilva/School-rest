@@ -12,7 +12,6 @@ import com.schoolrest.system.entity.Course;
 import com.schoolrest.system.entity.Day;
 import com.schoolrest.system.entity.Instructor;
 
-
 @Repository
 public class CourseDAOImpl implements CourseDAO {
 
